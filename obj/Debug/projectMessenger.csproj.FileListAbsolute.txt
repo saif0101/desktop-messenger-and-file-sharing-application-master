@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\projectMessenger\projectMessenger\bin\Debug\projectMessenger.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\bin\Debug\projectMessenger.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\bin\Debug\projectMessenger.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.login.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.home.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\projectMessenger\projectMessenger\obj\Debug\projectMessenger.Form2.resources
